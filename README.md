@@ -27,7 +27,7 @@ One of the most recognized virtual job simulations in the analytics industry. Co
 
 🔗 Verification: Enrolment Code `TWvsE6v3cyuoZHjtJ` | Issued by Forage
 
-📄 [View Certificate](certificates/Deloitte_Virtual_Program.pdf)
+📄 [View Certificate](Deloitte_Virtual_Program.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ A 12-month government-recognized graduate apprenticeship at CSPDCL (Chhattisgarh
 **Skills demonstrated:**
 `Professional Work Experience` `Analytical Skill` `Time Management` `MS Office` `Multi-Tasking` `Communication` `Documentation`
 
-📄 [View Certificate](certificates/CSPDCL_NATS_Apprenticeship_Certificate.pdf)
+📄 [View Certificate](CSPDCL_NATS_Apprenticeship_Certificate.pdf)
 
 ---
 
@@ -64,7 +64,7 @@ A comprehensive course covering Excel as a complete business analytics and dashb
 **Skills demonstrated:**
 `Microsoft Excel` `Pivot Tables` `Pivot Charts` `Dashboard Design` `Data Cleaning` `Business Analytics` `Data Visualization` `Slicers`
 
-📄 [View Certificate](certificates/Business_Analytics_with_Excel_Certificate.pdf)
+📄 [View Certificate](Business_Analytics_with_Excel_Certificate.pdf)
 
 ---
 
@@ -83,7 +83,7 @@ A foundational course covering the complete end-to-end data analyst workflow —
 **Skills demonstrated:**
 `Data Analysis` `Exploratory Data Analysis (EDA)` `Data Visualization` `Data Cleaning` `Statistical Thinking` `Business Insights` `Reporting`
 
-📄 [View Certificate](certificates/Data_Analyst_101_Certificate.pdf)
+📄 [View Certificate](Data_Analyst_101_Certificate.pdf)
 
 ---
 
